@@ -1,0 +1,1221 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 1,
+                "tipo": "Metro Linea 1",
+                "nombre": "Talleres"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.36547404,
+                    25.7545747
+                ]
+            },
+            "id": "estaciones_metro_ecovia.1"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 2,
+                "tipo": "Metro Linea 1",
+                "nombre": "San Bernabé"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.36175019,
+                    25.74854753
+                ]
+            },
+            "id": "estaciones_metro_ecovia.2"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 3,
+                "tipo": "Metro Linea 1",
+                "nombre": "Unidad Modelo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.35484255,
+                    25.74188396
+                ]
+            },
+            "id": "estaciones_metro_ecovia.3"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 4,
+                "tipo": "Metro Linea 1",
+                "nombre": "Aztlán"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.34719466,
+                    25.73212953
+                ]
+            },
+            "id": "estaciones_metro_ecovia.4"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 5,
+                "tipo": "Metro Linea 1",
+                "nombre": "Penitenciaría"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.34243045,
+                    25.72345902
+                ]
+            },
+            "id": "estaciones_metro_ecovia.5"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 6,
+                "tipo": "Metro Linea 1",
+                "nombre": "Alfonso Reyes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.3423143,
+                    25.71560482
+                ]
+            },
+            "id": "estaciones_metro_ecovia.6"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 7,
+                "tipo": "Metro Linea 1",
+                "nombre": "Mitras"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.34228238,
+                    25.70568451
+                ]
+            },
+            "id": "estaciones_metro_ecovia.7"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 8,
+                "tipo": "Metro Linea 1",
+                "nombre": "Simón Bolivar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.34309336,
+                    25.69809426
+                ]
+            },
+            "id": "estaciones_metro_ecovia.8"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 9,
+                "tipo": "Metro Linea 1",
+                "nombre": "Hospital"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.34390686,
+                    25.69271623
+                ]
+            },
+            "id": "estaciones_metro_ecovia.9"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 10,
+                "tipo": "Metro Linea 1",
+                "nombre": "Edison"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.33342677,
+                    25.68706443
+                ]
+            },
+            "id": "estaciones_metro_ecovia.10"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 11,
+                "tipo": "Metro Linea 1",
+                "nombre": "Central"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.32470323,
+                    25.68705221
+                ]
+            },
+            "id": "estaciones_metro_ecovia.11"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 12,
+                "tipo": "Metro Linea 1",
+                "nombre": "Cuauhtémoc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.31681716,
+                    25.68626412
+                ]
+            },
+            "id": "estaciones_metro_ecovia.12"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 13,
+                "tipo": "Metro Linea 1",
+                "nombre": "Del Golfo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.30660564,
+                    25.68525404
+                ]
+            },
+            "id": "estaciones_metro_ecovia.13"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 14,
+                "tipo": "Metro Linea 1",
+                "nombre": "Félix U. Gómez"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.29671065,
+                    25.68405597
+                ]
+            },
+            "id": "estaciones_metro_ecovia.14"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 15,
+                "tipo": "Metro Linea 1",
+                "nombre": "Parque Fundidora"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.28788404,
+                    25.6837951
+                ]
+            },
+            "id": "estaciones_metro_ecovia.15"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 16,
+                "tipo": "Metro Linea 1",
+                "nombre": "Y Griega"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.27978809,
+                    25.6835326
+                ]
+            },
+            "id": "estaciones_metro_ecovia.16"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 17,
+                "tipo": "Metro Linea 1",
+                "nombre": "Eloy Cavazos"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.26424243,
+                    25.68012838
+                ]
+            },
+            "id": "estaciones_metro_ecovia.17"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 18,
+                "tipo": "Metro Linea 1",
+                "nombre": "Lerdo De Tejada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.25219628,
+                    25.67987035
+                ]
+            },
+            "id": "estaciones_metro_ecovia.18"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 19,
+                "tipo": "Metro Linea 1",
+                "nombre": "Exposición"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.24549584,
+                    25.67960016
+                ]
+            },
+            "id": "estaciones_metro_ecovia.19"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 20,
+                "tipo": "Metro Linea 2",
+                "nombre": "General Anaya"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.31648974,
+                    25.69670307
+                ]
+            },
+            "id": "estaciones_metro_ecovia.20"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 21,
+                "tipo": "Metro Linea 2",
+                "nombre": "Universidad"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.30807839,
+                    25.72438685
+                ]
+            },
+            "id": "estaciones_metro_ecovia.21"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 22,
+                "tipo": "Metro Linea 2",
+                "nombre": "Niños Heroes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.31077714,
+                    25.7170073
+                ]
+            },
+            "id": "estaciones_metro_ecovia.22"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 23,
+                "tipo": "Metro Linea 2",
+                "nombre": "Regina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.31390804,
+                    25.70794923
+                ]
+            },
+            "id": "estaciones_metro_ecovia.23"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 24,
+                "tipo": "Metro Linea 2",
+                "nombre": "Anáhuac"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.30252562,
+                    25.73974679
+                ]
+            },
+            "id": "estaciones_metro_ecovia.24"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 25,
+                "tipo": "Metro Linea 2",
+                "nombre": "San Nicolás"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.29789704,
+                    25.75264494
+                ]
+            },
+            "id": "estaciones_metro_ecovia.25"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 26,
+                "tipo": "Metro Linea 2",
+                "nombre": "Tapia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.29557049,
+                    25.75909049
+                ]
+            },
+            "id": "estaciones_metro_ecovia.26"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 27,
+                "tipo": "Metro Linea 2",
+                "nombre": "Sendero"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.29249908,
+                    25.77010294
+                ]
+            },
+            "id": "estaciones_metro_ecovia.27"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 28,
+                "tipo": "Metro Linea 2",
+                "nombre": "General Zaragoza"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.30994559,
+                    25.6678394
+                ]
+            },
+            "id": "estaciones_metro_ecovia.28"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 29,
+                "tipo": "Metro Linea 2",
+                "nombre": "Padre Mier"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.31469132,
+                    25.66857844
+                ]
+            },
+            "id": "estaciones_metro_ecovia.29"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 30,
+                "tipo": "Metro Linea 2",
+                "nombre": "Fundadores"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.31842628,
+                    25.67262971
+                ]
+            },
+            "id": "estaciones_metro_ecovia.30"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 31,
+                "tipo": "Metro Linea 2",
+                "nombre": "Alameda"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.31799308,
+                    25.67638415
+                ]
+            },
+            "id": "estaciones_metro_ecovia.31"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 32,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Terminal Lincoln"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.42069078,
+                    25.77064089
+                ]
+            },
+            "id": "estaciones_metro_ecovia.32"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 33,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Astros"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.40783891,
+                    25.76359946
+                ]
+            },
+            "id": "estaciones_metro_ecovia.33"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 34,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Cumbres"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.40262433,
+                    25.75985164
+                ]
+            },
+            "id": "estaciones_metro_ecovia.34"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 35,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Plumbago"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.39759526,
+                    25.75614962
+                ]
+            },
+            "id": "estaciones_metro_ecovia.35"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 36,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Plutarco Elías Calles"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.39235466,
+                    25.75237776
+                ]
+            },
+            "id": "estaciones_metro_ecovia.36"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 37,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Embotelladora"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.38767297,
+                    25.74900648
+                ]
+            },
+            "id": "estaciones_metro_ecovia.37"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 38,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Panteón Municipal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.38131963,
+                    25.7424738
+                ]
+            },
+            "id": "estaciones_metro_ecovia.38"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 39,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Cardenal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.37805971,
+                    25.73882592
+                ]
+            },
+            "id": "estaciones_metro_ecovia.39"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 40,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Valle Verde"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.37314354,
+                    25.73333031
+                ]
+            },
+            "id": "estaciones_metro_ecovia.40"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 41,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Cardiología"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.36993823,
+                    25.72980115
+                ]
+            },
+            "id": "estaciones_metro_ecovia.41"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 42,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Santa Cecilia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.36657243,
+                    25.72605843
+                ]
+            },
+            "id": "estaciones_metro_ecovia.42"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 43,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Villa Mitras"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.36353689,
+                    25.72350694
+                ]
+            },
+            "id": "estaciones_metro_ecovia.43"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 44,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Rangel Frías"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.35689233,
+                    25.71895854
+                ]
+            },
+            "id": "estaciones_metro_ecovia.44"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 45,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Tránsito"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.35328033,
+                    25.71669885
+                ]
+            },
+            "id": "estaciones_metro_ecovia.45"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 46,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Laredo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.34623889,
+                    25.71196251
+                ]
+            },
+            "id": "estaciones_metro_ecovia.46"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 47,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Rodrigo Gómez"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.34286486,
+                    25.70972424
+                ]
+            },
+            "id": "estaciones_metro_ecovia.47"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 48,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Celulosa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.33758748,
+                    25.70468452
+                ]
+            },
+            "id": "estaciones_metro_ecovia.48"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 49,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "20 De Noviembre"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.33194349,
+                    25.70456898
+                ]
+            },
+            "id": "estaciones_metro_ecovia.49"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 50,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Hidalgo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.32184274,
+                    25.70439814
+                ]
+            },
+            "id": "estaciones_metro_ecovia.50"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 51,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Bellavista"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.31851994,
+                    25.70435657
+                ]
+            },
+            "id": "estaciones_metro_ecovia.51"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 52,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Asarco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.30860321,
+                    25.70413537
+                ]
+            },
+            "id": "estaciones_metro_ecovia.52"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 53,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Cementos"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.29676182,
+                    25.70393062
+                ]
+            },
+            "id": "estaciones_metro_ecovia.53"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 54,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Ruíz Cortines"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.28721499,
+                    25.70377634
+                ]
+            },
+            "id": "estaciones_metro_ecovia.54"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 55,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Clinica 15"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.28362801,
+                    25.70368852
+                ]
+            },
+            "id": "estaciones_metro_ecovia.55"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 56,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Coyoacán"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.27835314,
+                    25.70356765
+                ]
+            },
+            "id": "estaciones_metro_ecovia.56"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 57,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Churubusco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.26875458,
+                    25.70350817
+                ]
+            },
+            "id": "estaciones_metro_ecovia.57"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 58,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Vidriera"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.26023549,
+                    25.70329539
+                ]
+            },
+            "id": "estaciones_metro_ecovia.58"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 59,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Adolfo Prieto"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.25353663,
+                    25.70316203
+                ]
+            },
+            "id": "estaciones_metro_ecovia.59"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 60,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Américas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.24720713,
+                    25.70304909
+                ]
+            },
+            "id": "estaciones_metro_ecovia.60"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 61,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Central De Carga"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.23853109,
+                    25.70295583
+                ]
+            },
+            "id": "estaciones_metro_ecovia.61"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 62,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Tauro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.22988018,
+                    25.70274239
+                ]
+            },
+            "id": "estaciones_metro_ecovia.62"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 63,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Miguel Alemán"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.22302264,
+                    25.70256119
+                ]
+            },
+            "id": "estaciones_metro_ecovia.63"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 64,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Calle Nueva"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.21733176,
+                    25.70301493
+                ]
+            },
+            "id": "estaciones_metro_ecovia.64"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 65,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "De La Zanja"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.20819917,
+                    25.70471537
+                ]
+            },
+            "id": "estaciones_metro_ecovia.65"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 66,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Acero"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.19992249,
+                    25.70765043
+                ]
+            },
+            "id": "estaciones_metro_ecovia.66"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 67,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Guadalajara"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.19413316,
+                    25.70884465
+                ]
+            },
+            "id": "estaciones_metro_ecovia.67"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 68,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "San Miguel"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.18778026,
+                    25.70906378
+                ]
+            },
+            "id": "estaciones_metro_ecovia.68"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 69,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Valle Fértil"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.16567469,
+                    25.70556326
+                ]
+            },
+            "id": "estaciones_metro_ecovia.69"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 70,
+                "tipo": "Ecovia Linea 1",
+                "nombre": "Terminal Valle Soleado"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.15754764,
+                    25.70500689
+                ]
+            },
+            "id": "estaciones_metro_ecovia.70"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 71,
+                "tipo": "Metro Linea 3",
+                "nombre": "Hospital Metropolitano"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.27340094,
+                    25.71385451
+                ]
+            },
+            "id": "estaciones_metro_ecovia.71"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 72,
+                "tipo": "Metro Linea 3",
+                "nombre": "Los Angeles"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.28255086,
+                    25.70741031
+                ]
+            },
+            "id": "estaciones_metro_ecovia.72"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 73,
+                "tipo": "Metro Linea 3",
+                "nombre": "Moderna"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.29280939,
+                    25.70019131
+                ]
+            },
+            "id": "estaciones_metro_ecovia.73"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 74,
+                "tipo": "Metro Linea 3",
+                "nombre": "Conchello"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.29564143,
+                    25.69095468
+                ]
+            },
+            "id": "estaciones_metro_ecovia.74"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 75,
+                "tipo": "Metro Linea 3",
+                "nombre": "Adolfo Prieto"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.29758668,
+                    25.67776991
+                ]
+            },
+            "id": "estaciones_metro_ecovia.75"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 76,
+                "tipo": "Metro Linea 3",
+                "nombre": "Santa Lucía"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.29834718,
+                    25.67204895
+                ]
+            },
+            "id": "estaciones_metro_ecovia.76"
+        }
+    ]
+}
